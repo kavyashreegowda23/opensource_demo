@@ -1,2 +1,2 @@
 print("Good Morning")
-print("open develpoment")
+print("OPENSOUREC DEVELPOMENT")
